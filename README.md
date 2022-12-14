@@ -26,6 +26,7 @@ Step7 :Create a new landscape in the unreal engine and add water body to it.
 Step8: Create a new blue print class of actor and name it float boat.
 
 Step9: Open the blue print and add a static mesh and change the texture to the boat that is imported. 10 From add components add Buoyancy to the blue print and create few points so that boat stay floating.
+
 Step10: Drag and drop the created blue print on to the landscape water body.
 
 Step11: Press play button now the boat starts floating the waterbody.
