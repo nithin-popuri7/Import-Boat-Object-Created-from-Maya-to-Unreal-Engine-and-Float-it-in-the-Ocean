@@ -24,3 +24,13 @@ Step9: Open the blue print and add a static mesh and change the texture to the b
 Step10: Drag and drop the created blue print on to the landscape water body.
 
 Step11: Press play button now the boat starts floating the waterbody.
+
+## Output:
+![github.logo](exp6.png)
+
+![github.logo](exp6.1.png)
+
+![github.logo](exp6.2.png)
+
+## YouTube:
+ https://youtu.be/lL6vBS1OlH8
